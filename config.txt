@@ -1,0 +1,10 @@
+hostname=NSAVan
+ip=10.2.0.0/24
+port=6110 
+verify_whatever="yes"
+
+***some other stuff***
+
+(c)copyright Nick 
+
+EOF
