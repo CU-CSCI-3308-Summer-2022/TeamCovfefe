@@ -1,0 +1,8 @@
+hostname=FBIVan
+ip=10.2.0.17/32
+port=9110
+verify_whatever="no"
+
+***some other stuff***
+
+EOF
